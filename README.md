@@ -113,3 +113,6 @@ Which results in:
   }
 ]
 ```
+
+The resulting output is:
+![Colours Between Manorburn and Lexicon](docs/img/colour_list.png?raw=true "Colour List")
